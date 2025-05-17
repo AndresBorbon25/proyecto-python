@@ -11,6 +11,7 @@ def dividir(a, b):
         return None
     return a / b
 
+
 if __name__ == "__main__":
     saludar("Mundo")
     print(dividir(10, 0))
